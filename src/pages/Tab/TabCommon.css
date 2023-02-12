@@ -1,0 +1,24 @@
+.loading-main {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.loading-content{
+    width: 100%;
+    line-height: 100%;
+    text-align: center;
+}
+
+.main{
+    height: 100vh;
+}
+
+.chart-div{
+    height: 70vh;
+    text-align: center;
+    padding-left: auto;
+    padding-right: auto;
+}
+.chart {
+    display: inline !important;
+}

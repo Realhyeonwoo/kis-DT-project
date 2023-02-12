@@ -1,0 +1,16 @@
+.loading-main{
+    background-color: #DFDFDF;
+}
+
+.res-wrapper{
+    background-color: #F4F7FE;
+}
+.sub-nav-title{
+    font-weight: bold;
+    font-size: 1.8rem;
+    color: #0064AD;
+}
+.accordion-header>.accordion-button{
+    font-size: 2rem;
+    color: black !important;
+}

@@ -1,0 +1,10 @@
+.res-backtest-div{
+  height: 45vh;
+  text-align: center;
+}
+.res-backtest-div>canvas{
+  margin-right: auto;
+  margin-left: auto;
+  /* width: 100% !important; */
+  height: 100% !important;
+}
